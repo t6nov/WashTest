@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "321843251004",
+    "project_id": "washcar2-1f6b7",
+    "storage_bucket": "washcar2-1f6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321843251004:android:04698e4ed185b50e310039",
+        "android_client_info": {
+          "package_name": "com.example.flutter_washcar_p2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321843251004-1t9vmqv5dj47b416k60moc0mforia53h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8wilsX2IMecIlU7rjdheJgywh7TUkfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321843251004-1t9vmqv5dj47b416k60moc0mforia53h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321843251004-dvjpruk38te85k5u2c2h0qc3g0cuipe2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterWashcarP2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321843251004:android:ff2c9531930642d0310039",
+        "android_client_info": {
+          "package_name": "com.example.test_wash_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321843251004-1t9vmqv5dj47b416k60moc0mforia53h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8wilsX2IMecIlU7rjdheJgywh7TUkfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321843251004-1t9vmqv5dj47b416k60moc0mforia53h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321843251004-dvjpruk38te85k5u2c2h0qc3g0cuipe2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterWashcarP2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
